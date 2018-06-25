@@ -1,6 +1,5 @@
-
 #define resolution 8
-#define mains 50 // 60: north america, japan; 50: most other places
+#define mains 50 // 60: north america; 50: most other places
 
 #define refresh 2 * 1000000 / mains
 
@@ -55,5 +54,3 @@ void startTimer() {
 unsigned long checkTimer() {
   return ((timer0_overflow_count << 8) + TCNT0) << 2;
 }
-
-
