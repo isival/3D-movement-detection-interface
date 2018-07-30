@@ -13,7 +13,6 @@ global time_img
 time_img=0
 b=-1
 
-
 global dictio
 dictio={}
 dictio={0:'flame_purplebackgraound-0.png'}
@@ -33,7 +32,6 @@ dictio[13]='flame_purplebackgraound-13.png'
 dictio[14]='flame_purplebackgraound-14.png'
 dictio[15]='flame_purplebackgraound-15.png'
 
-
 global dictio1
 dictio1={}
 dictio1={0:'flame_purplebackgraound-0 (copie).png'}
@@ -52,9 +50,6 @@ dictio1[12]='flame_purplebackgraound-12 (copie).png'
 dictio1[13]='flame_purplebackgraound-13 (copie).png'
 dictio1[14]='flame_purplebackgraound-14 (copie).png'
 dictio1[15]='flame_purplebackgraound-15 (copie).png'
-
-
-
 
 
 
